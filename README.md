@@ -1,3 +1,7 @@
 # -science-online
-个人收藏 app 科学上网
-更新 Clash Core 到 v1.13.0
+个人收藏的app只是对电脑使用 、移动端。不支持 Windows Mac 都可以参考 
+
+  🈶️哪些软件
+  
+Clash Core v1.13.0
+
