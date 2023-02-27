@@ -1,28 +1,39 @@
-Clash for Windows 官网：https://github.com/Fndroid/clash_for_windows_pkg/releases
+# DNS
 
-Clash for Android （移动端）：https://github.com/Kr328/ClashForAndroid/releases
+图书馆：
 
-Winxray 官网：https://github.com/TheMRLL/WinXray/releases
+DNS服务器：114.114.114.114
+          223.5.5.5
+          8.8.8.8
+          
 
-V2rayN 官网：https://github.com/2dust/v2rayN/releases
+         Google公共DNS：8.8.8.8和8.8.4.4
 
-V2rayNG（移动端）：https://github.com/2dust/v2rayNG/releases
+         Cloudflare DNS：1.1.1.1和1.0.0.1
 
-Shadowrocket（iOS 小火箭）：https://apps.apple.com/us/app/shadowrocket/id932747118
+         OpenDNS：208.67.222.222和208.67.220.220
 
-Quantumult（iOS 圈X）：https://apps.apple.com/us/app/quantumult-x/id1443988620?l=zh
+         Quad9 DNS：9.9.9.9和149.112.112.112
+          
+          
+         中国电信：
+         主DNS服务器：202.96.128.86 和 202.96.134.133
+         备用DNS服务器：218.2.135.1 和 218.2.135.2
+         中国移动：
+         主DNS服务器：218.2.2.2
+         备用DNS服务器：218.2.2.3
+         中国联通：
+         主DNS服务器：123.125.81.6 和 140.207.198.6
+         备用DNS服务器：123.125.81.7 和 140.207.198.7
+         中国广电网络：
+         主DNS服务器：218.104.111.114 和 218.104.111.115
+         备用DNS服务器：202.96.128.143 和 202.96.134.133
+         中国铁通：
+         主DNS服务器：202.102.152.3 和 202.102.154.3
+         备用DNS服务器：202.102.152.35 和 202.102.154.35
+         
 
-白嫖节点可以使用浏览器，例如：Tor Browser （洋葱🧅）Google Chrome。                                
-使用方法就是关键词：“软件名称➕节点，还有时间 ”
 
-DNS 列表
+![IMG_0002](https://user-images.githubusercontent.com/96334893/214467452-e9a73060-7c1f-4226-afec-b77b5d56c494.jpg)
 
-
-
-# -science-online
-个人收藏的app只是对电脑使用 、移动端。不支持 Windows Mac 都可以参考 
-
-  🈶️哪些软件
-  
-Clash Core v1.13.0
-
+![IMG_0001](https://user-images.githubusercontent.com/96334893/214467549-161bb10a-3913-485f-942e-0a8cd3873291.jpg)
