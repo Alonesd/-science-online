@@ -14,6 +14,11 @@ Quantumult（iOS 圈X）：https://apps.apple.com/us/app/quantumult-x/id14439886
 
 白嫖节点可以使用浏览器，例如：Tor Browser （洋葱🧅）Google Chrome。                                
 使用方法就是关键词：“软件名称➕节点，还有时间 ”
+
+DNS 列表
+
+
+
 # -science-online
 个人收藏的app只是对电脑使用 、移动端。不支持 Windows Mac 都可以参考 
 
