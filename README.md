@@ -3,7 +3,8 @@
 
 # 防火墙（全局代理）：Cloudflare
 cloudflare WARP --官网：https://1.1.1.1     
-OpneAI ChatGPT 需要开全局代理  
+OpneAI ChatGPT 需要开全局代理   
+使用规则是先开VPN、再打开Clouflare WARP   
 ⏬好Cloudflare WARP 访问不了ChatGPT      
 1⃣️开启VPN 全局代理。            
 2⃣️重新再关闭Cloudflare WARP 再重新打开。 
